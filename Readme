@@ -1,1 +1,3 @@
-A basic linux device driver with read/write file operations implemented
+A basic linux device driver with read/write file operations implemented.
+As a part of the course 'Linux Device Driver' from inPyjamas
+https://engineers.inpyjama.com/
